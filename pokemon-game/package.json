@@ -20,5 +20,13 @@
     "@vue/vue3-jest": "^27.0.0-alpha.1",
     "babel-jest": "^27.0.6",
     "jest": "^27.0.5"
-  }
+  },
+  "description": "```\r npm install\r ```",
+  "main": "babel.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
